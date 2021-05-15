@@ -2,6 +2,7 @@ public class Test{
    //Bug=123
    public void doProcess(){
     int i =10;
+	int j = 3
 	
    }
 }
