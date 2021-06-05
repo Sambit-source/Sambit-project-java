@@ -1,9 +1,9 @@
 public class Test{
    //Bug=123
+   // Bug for sd - 104
    public void doProcess(){
     int i =10;
 	int j = 3;
-	int p = 9;
-	
+	int z = 0;	
    }
 }
